@@ -1,0 +1,1 @@
+maybe add: if sortA[] doesnt produce satisfactory results, try negative side???

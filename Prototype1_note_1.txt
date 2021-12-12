@@ -1,0 +1,12 @@
+Number of joints:15
+One motor for all 15 joints. Used willow sticks to improve stability in unused axis.
+Movement: left-right throughout the whole arm
+
+Problems:
+	-One 28BYJ-48 stepper motor is not strong enough to effectively move whole arm. Further 	 testing required to see if all motors should be changed from step to servo.
+	-Very poor overall stability, even with the core made out of rope bound with wire and 	 	 willow sticks
+	-Joints might be too loose(further testing required);
+	 Possible upgrades for next type of joint:
+						 -Clasping of two joints, interlocking without 						  		  falling apart
+						 -Maybe: less free space in socket, but decreased
+						  friction
